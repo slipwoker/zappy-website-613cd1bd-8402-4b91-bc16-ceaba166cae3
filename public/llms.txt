@@ -1,0 +1,58 @@
+# Itay barber — Generative Engine Optimization Map
+
+> An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a 'Continue' button that leads to an appointment scheduling screen. Once an appointment is booked, the client's details are automatically sent to the business owner.
+
+---
+
+## Pages
+
+### בית
+https://itay-barber-613cd1bd.zappy5.app
+An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a &#39;Con
+
+## Legal & Policy
+
+### Privacy Policy
+https://itay-barber-613cd1bd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://itay-barber-613cd1bd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://itay-barber-613cd1bd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Itay barber
+An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a 'Continue' button that leads to an appointment scheduling screen. Once an appointment is booked, the client's details are automatically sent to the business owner.
+
+## Services/Products
+- קביעת תורים
+- איסוף פרטי לקוח (שם משפחה, מספר טלפון)
+
+## Target Audience
+- גברים צעירים מקצועיים
+- הורים עסוקים
+- בני נוער מודעים לאופנה
+
+## Industry
+Appointment Scheduling
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://itay-barber-613cd1bd.zappy5.app/sitemap.xml
+- Robots: https://itay-barber-613cd1bd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://itay-barber-613cd1bd.zappy5.app/llms-full.txt
