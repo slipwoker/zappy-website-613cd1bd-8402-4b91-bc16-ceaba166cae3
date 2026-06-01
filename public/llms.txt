@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://itay-barber-613cd1bd.zappy5.app
+https://example.com
 An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a &#39;Con
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://itay-barber-613cd1bd.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://itay-barber-613cd1bd.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://itay-barber-613cd1bd.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,6 +53,6 @@ Appointment Scheduling
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://itay-barber-613cd1bd.zappy5.app/sitemap.xml
-- Robots: https://itay-barber-613cd1bd.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://itay-barber-613cd1bd.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

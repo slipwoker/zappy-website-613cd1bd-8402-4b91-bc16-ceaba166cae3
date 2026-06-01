@@ -2,13 +2,13 @@
 
 An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a 'Continue' button that leads to an appointment scheduling screen. Once an appointment is booked, the client's details are automatically sent to the business owner.
 
-Source: https://itay-barber-613cd1bd.zappy5.app
+Source: https://example.com
 
 ---
 
 ## google appointment scheduling — Itay barber
 
-URL: https://itay-barber-613cd1bd.zappy5.app
+URL: https://example.com
 Description: An appointment booking website in Hebrew with a two-step flow: a welcome/intro screen where the user enters their last name and phone number, followed by a &#39;Con
 
 google appointment scheduling — Itay barber
@@ -768,7 +768,7 @@ Itay Barber — קביעת תורים
 
 ## מדיניות פרטיות
 
-URL: https://itay-barber-613cd1bd.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1029,7 +1029,7 @@ Itay barber ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://itay-barber-613cd1bd.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1299,7 +1299,7 @@ Itay barber מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://itay-barber-613cd1bd.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
